@@ -1,3 +1,12 @@
 body{
     margin: 0;
 }
+.animate{
+    animation: anime 2s 3;
+    transform: scale(.5);
+}
+@keyframes anime {
+    10%{
+        
+    }
+}
